@@ -2,3 +2,9 @@ auto-script.php
 database.php
 index.php
 style.css
+auto-script.js
+newcode.js
+pakage-lock.json
+package.json
+node_modules/
+package-lock.json
